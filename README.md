@@ -3,7 +3,7 @@
 
 <!-- I'm Dipto, a software engineer with experience in Python, Django,Ruby, Rails, JavaScript, React and more. I've been working professionally for about 3 years but got my start back in days of Unipolar and AnansiSkill. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a web that works for everyone.-->
 
-#### I'm a Full-Stack Developer based in Brooklyn, New York.
+#### I'm a Full-Stack Developer based in Dhaka, Bangadesh.
 
 - 🏢 I'm currently working full-time with awesome peeps at **Self based project**
 - ⚙️ I use daily: `.py`,`.rb`, `.js`, `.erb`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`

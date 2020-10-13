@@ -5,7 +5,7 @@
 
 #### I'm a Full-Stack Developer based in Dhaka, Bangadesh.
 
-- 🏢 I'm currently working full-time with awesome peeps at TurnonSound.
+- 🏢 I'm currently working full-time with awesome peeps at **TurnonSound**.
 - ⚙️ I use daily: `.py`,`.rb`, `.js`, `.erb`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`
 - 🌍 I support and volunteer with: **freecodecamp, HiveLink, Odin project**
 - 💅 Active community member of: **Python Discord, Mintbean**

@@ -5,14 +5,14 @@
 
 #### I'm a Full-Stack Developer based in Dhaka, Bangadesh.
 
-- 🏢 I'm currently working full-time with awesome peeps at **Self based project**
+- 🏢 I'm currently working full-time with awesome peeps at TurnonSound.
 - ⚙️ I use daily: `.py`,`.rb`, `.js`, `.erb`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`
-- 🌍 I support and volunteer with: **freecodecamp, Covid-19 team, Odin project**
+- 🌍 I support and volunteer with: **freecodecamp, HiveLink, Odin project**
 - 💅 Active community member of: **Python Discord, Mintbean**
 - 🌱 Learning more about and studying: **Open Source, Redux, CS Algorithms, System Design and Architecture, Project Management**
-- 💬 Ping me about: **wed development**, **FullStack Development**, **diversity & inclusion**, **mentorship**
-- 📫 Reach me asap: <a href="https://twitter.com/Diptokmk47">Twitter</a> or diptokmk47@gmail.com
-- 😍 Interests: Machine Learning, cryptocurrencies enthusiast, Reading books 📖, Movies and WebSeries 🎥
+- 💬 Ping me about: **Web development**, **fullstack development**, **diversity & inclusion**, **mentorship**
+- 📫 Reach me ASAP: <a href="https://twitter.com/Diptokmk47">Twitter</a> or diptokmk47@gmail.com
+- 😍 Interests: Machine Learning, cryptocurrencies enthusiast, reading books 📖, movies and web series 🎥
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
 #### Find me around the web 🌎:

@@ -25,7 +25,7 @@
 
 
 <img align="left" style="margin: 0.5rem" alt="Python language" width="26px" src="./assets/python.png" />
-<img align="left" style="margin: 0.5rem" alt="Django" width="50px" src="./assets/django.png" />
+<img align="left" style="margin: 0.5rem" alt="Django" width="40px" src="./assets/django.png" />
 <img align="left" style="margin: 0.5rem" alt="Ruby" width="26px" src="./assets/ruby.png" />
 <img align="left" style="margin: 0.5rem" alt="Rails" width="50px" src="./assets/rails.png" />
 
@@ -38,13 +38,13 @@
 <img align="left" style="margin: 0.5rem" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" style="margin: 0.5rem" alt="PostgreSQL" width="26px" src="./assets/pg.png" />
-<img align="left" style="margin: 0.5rem" alt="MongoDB" width="50px" src="./assets/mongo_db.png" />
+<img align="left" style="margin: 0.5rem" alt="MongoDB" width="70px" src="./assets/mongo_db.png" />
 
 <img align="left" style="margin: 0.5rem" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" style="margin: 0.5rem" alt="Git" width="26px" src="./assets/git.png" />
 <img align="left" style="margin: 0.5rem" alt="Git" width="26px" src="./assets/docker.png" />
 <img align="left" style="margin: 0.5rem" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" style="margin: 0.5rem" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img style="margin: 0.5rem" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
@@ -53,7 +53,7 @@
 ### All stats
 <img align="left" alt="Dipto's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dipto0321&theme=dracula&show_icons=true&hide_border=true" />
 <img align="left" alt="Wakatime Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=dipto0321&theme=dracula&show_icons=true&hide_border=true" />
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipto0321&layout=compact&langs_count=8&theme=dracula&show_icons=true&hide_border=true" />
+<img align="" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipto0321&layout=compact&langs_count=8&theme=dracula&show_icons=true&hide_border=true" />
 
 
 

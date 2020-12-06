@@ -43,7 +43,8 @@
 
 ### All stats
 <img align="left" alt="Dipto's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dipto0321&theme=dracula&show_icons=true&hide_border=true" />
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipto0321&layout=compact&langs_count=8&theme=dracula&show_icons=true&hide_border=true" />
 <img align="left" alt="Wakatime Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=dipto0321&theme=dracula&show_icons=true&hide_border=true" />
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipto0321&layout=compact&langs_count=8&theme=dracula&show_icons=true&hide_border=true" />
+
 
 

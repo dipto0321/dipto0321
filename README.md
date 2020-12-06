@@ -3,9 +3,10 @@
 
 <!-- I'm Dipto, a software engineer with experience in Python, Django,Ruby, Rails, JavaScript, React and more. I've been working professionally for about 3 years but got my start back in days of Unipolar and AnansiSkill. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a web that works for everyone.-->
 
-#### I'm a Full-Stack Developer based in Dhaka, Bangadesh.
+#### I'm a Full-Stack Developer.
 
-- 🏢 I'm currently working full-time with awesome peeps at **TurnonSound**.
+- 🤝 I'm actively looking for a new opportunity in Software development
+- 🏢 I'm currently doing a contract job with awesome peeps at **TurnOnSound**.
 - ⚙️ I use daily: `.py`,`.rb`, `.js`, `.erb`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`
 - 🌍 I support and volunteer with: **freecodecamp, HiveLink, Odin project**
 - 💅 Active community member of: **Python Discord, Mintbean**

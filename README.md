@@ -1,9 +1,9 @@
-### Hi, I'm Dipto 👋
+## Hi, I'm Dipto 👋
 ---
 
 <!-- I'm Dipto, a software engineer with experience in Python, Django,Ruby, Rails, JavaScript, React and more. I've been working professionally for about 3 years but got my start back in days of Unipolar and AnansiSkill. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a web that works for everyone.-->
 
-#### I'm a Full-Stack Developer.
+### I'm a Full-Stack Developer.
 
 - 🤝 I'm actively looking for a new opportunity in Software development
 - 🏢 I'm currently doing a contract job with awesome peeps at **TurnOnSound**.
@@ -16,8 +16,35 @@
 - 😍 Interests: Machine Learning, cryptocurrencies enthusiast, reading books 📖, movies and web series 🎥
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
-#### Find me around the web 🌎:
+### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/diptokarmakar/">LinkedIn</a>
 - 🌐 Updating my personal website with examples of my work on <a href="https://diptokarmakar.me/">diptokarmakar.me</a>
 - 🐦 Tweeting about memes and sharing tech tweets on <a href="https://twitter.com/Diptokmk47">Twitter</a>
+
+### Languages and Tools:
+
+
+<img align="left" style="margin: 0.5rem" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" style="margin: 0.5rem" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" style="margin: 0.5rem" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" style="margin: 0.5rem" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" style="margin: 0.5rem" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" style="margin: 0.5rem" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" style="margin: 0.5rem" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" style="margin: 0.5rem" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" style="margin: 0.5rem" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" style="margin: 0.5rem" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" style="margin: 0.5rem" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" style="margin: 0.5rem" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" style="margin: 0.5rem" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+<details>
+  <summary> Github Stats</summary>
+
+  <img align="left" alt="Dipto's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dipto0321&theme=dracula&show_icons=true&hide_border=true" />
+
+</details>
 

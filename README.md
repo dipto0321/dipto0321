@@ -24,27 +24,32 @@
 ### Languages and Tools:
 
 
-<img style="margin: 0.5rem" alt="Python language" width="26px" src="./assets/python.png" />
-<img style="margin: 0.5rem" alt="Django" width="40px" src="./assets/django.png" />
-<img style="margin: 0.5rem" alt="Ruby" width="26px" src="./assets/ruby.png" />
-<img style="margin: 0.5rem" alt="Rails" width="50px" src="./assets/rails.png" />
+<img align="left" style="margin: 0.5rem" alt="Python language" width="26px" src="./assets/python.png" />
+<img align="left" style="margin: 0.5rem" alt="Ruby" width="26px" src="./assets/ruby.png" />
+<img align="left" style="margin: 0.5rem" alt="Django" width="40px" src="./assets/django.png" />
+<img align="left" style="margin: 0.5rem" alt="Rails" width="50px" src="./assets/rails.png" />
 
-<img style="margin: 0.5rem" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img style="margin: 0.5rem" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img style="margin: 0.5rem" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img style="margin: 0.5rem" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img style="margin: 0.5rem" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img style="margin: 0.5rem" alt="Redux" width="26px" src="./assets/redux.png" />
-<img style="margin: 0.5rem" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" style="margin: 0.5rem" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" style="margin: 0.5rem" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" style="margin: 0.5rem" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" style="margin: 0.5rem" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" style="margin: 0.5rem" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" style="margin: 0.5rem" alt="Redux" width="26px" src="./assets/redux.png" />
+<img align="left" style="margin: 0.5rem" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img style="margin: 0.5rem" alt="PostgreSQL" width="26px" src="./assets/pg.png" />
-<img style="margin: 0.5rem" alt="MongoDB" width="70px" src="./assets/mongo_db.png" />
+<img align="left" style="margin: 0.5rem" alt="PostgreSQL" width="26px" src="./assets/pg.png" />
+<img align="left" style="margin: 0.5rem" alt="MongoDB" width="70px" src="./assets/mongo_db.png" />
 
-<img style="margin: 0.5rem" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img style="margin: 0.5rem" alt="Git" width="26px" src="./assets/git.png" />
-<img style="margin: 0.5rem" alt="Git" width="26px" src="./assets/docker.png" />
-<img style="margin: 0.5rem" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img style="margin: 0.5rem" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+<br />
+
+<img align="left" style="margin: 0.5rem" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" style="margin: 0.5rem" alt="Git" width="26px" src="./assets/git.png" />
+<img align="left" style="margin: 0.5rem" alt="Git" width="26px" src="./assets/docker.png" />
+<img align="left" style="margin: 0.5rem" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" style="margin: 0.5rem" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />

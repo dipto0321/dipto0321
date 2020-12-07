@@ -9,12 +9,8 @@
 - 🏢 I'm currently doing a contract job with awesome peeps at **TurnOnSound**.
 - ⚙️ I use daily: `.py`,`.rb`, `.js`, `.erb`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`
 - 🌍 I support and volunteer with: **freecodecamp, HiveLink, Odin project**
-- 💅 Active community member of: **Python Discord, Mintbean**
-- 🌱 Learning more about and studying: **Open Source, Redux, CS Algorithms, System Design and Architecture, Project Management**
 - 💬 Ping me about: **Web development**, **fullstack development**, **diversity & inclusion**, **mentorship**
-- 📫 Reach me ASAP: <a href="https://twitter.com/Diptokmk47">Twitter</a> or diptokmk47@gmail.com
 - 😍 Interests: Machine Learning, cryptocurrencies enthusiast, reading books 📖, movies and web series 🎥
-- 😄 Passionate about accessibility and committed to a web that works for everyone
 
 ### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/diptokarmakar/">LinkedIn</a>
@@ -53,7 +49,7 @@
 ### All stats
 <img alt="Dipto's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dipto0321&theme=dracula&show_icons=true&hide_border=true" />
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipto0321&layout=compact&langs_count=8&theme=dracula&show_icons=true&hide_border=true" />
-<img align="left" alt="Wakatime Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=dipto0321&theme=dracula&show_icons=true&hide_border=true" />
+
 
 
 

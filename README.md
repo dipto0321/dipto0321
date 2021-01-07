@@ -1,3 +1,4 @@
+![banner](assets/banner.png)
 ## Hi, I'm Dipto 👋
 ---
 

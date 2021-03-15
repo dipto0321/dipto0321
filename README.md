@@ -6,10 +6,9 @@
 
 ### I'm a Full-Stack Developer.
 
-- 🤝 I'm actively looking for a new opportunity in Software development
-- 🏢 I'm currently doing a contract job with awesome peeps at **TurnOnSound**.
+- 🏢 I'm currently doing a contract job with awesome peeps at **YouMeWho**.
 - ⚙️ I use daily: `.py`,`.rb`, `.js`, `.erb`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`
-- 🌍 I support and volunteer with: **freecodecamp, HiveLink, Odin project**
+- 🌍 I support and volunteer with: **freecodecamp, Mintbean, Odin project**
 - 💬 Ping me about: **Web development**, **fullstack development**, **diversity & inclusion**, **mentorship**
 - 😍 Interests: Machine Learning, cryptocurrencies enthusiast, reading books 📖, movies and web series 🎥
 

@@ -6,7 +6,7 @@
 
 ### I'm a Full-Stack Developer.
 
-- 🏢 I'm currently doing a contract job with awesome peeps at **YouMeWho**.
+- 🔎 I'm actively looking for new opportunity.
 - ⚙️ I use daily: `.py`,`.rb`, `.js`, `.erb`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`
 - 🌍 I support and volunteer with: **freecodecamp, Mintbean, Odin project**
 - 💬 Ping me about: **Web development**, **fullstack development**, **diversity & inclusion**, **mentorship**

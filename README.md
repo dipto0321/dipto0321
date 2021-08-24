@@ -7,6 +7,7 @@
 ### I'm a Full-Stack Developer.
 
 <!-- - 🔎 I'm actively looking for new opportunity. -->
+- 👨‍💻 I'm working with some awesome people at **[Kiwibot](https://www.kiwibot.com/)**
 - ⚙️ I use daily: `.py`,`.rb`, `.js`, `.erb`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`
 - 🌍 I support and volunteer with: **freecodecamp, Mintbean, Odin project**
 - 💬 Ping me about: **Web development**, **fullstack development**, **diversity & inclusion**, **mentorship**
@@ -47,8 +48,14 @@
 <br />
 
 ### All stats
+[![Dipto's Github trophy](https://github-profile-trophy.vercel.app/?username=dipto0321&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Dipto's Github Stats](https://github-readme-stats.vercel.app/api?username=dipto0321&&theme=dracula&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipto0321&layout=compact&langs_count=8&theme=dracula&show_icons=true&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dipto0321&theme=darcula)](https://git.io/streak-stats)
+
+
 
 
 

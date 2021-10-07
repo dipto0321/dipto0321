@@ -48,8 +48,8 @@
 <br />
 
 ### All stats
+<a href="https://app.daily.dev/dipto0321"><img src="https://github.com/dipto0321/dipto0321/blob/master/devcard.svg" width="400" alt="Dipto Karmakar (Dipto)'s Dev Card"/></a>
 [![Dipto's Github trophy](https://github-profile-trophy.vercel.app/?username=dipto0321&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Dipto's Github Stats](https://github-readme-stats.vercel.app/api?username=dipto0321&&theme=dracula&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipto0321&layout=compact&langs_count=8&theme=dracula&show_icons=true&hide_border=true)
 

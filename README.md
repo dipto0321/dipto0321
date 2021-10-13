@@ -1,41 +1,48 @@
 ![banner](assets/banner.png)
-## Hi, I'm Dipto 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 
 <!-- I'm Dipto, a software engineer with experience in Python, Django,Ruby, Rails, JavaScript, React and more. I've been working professionally for about 3 years but got my start back in days of Unipolar and AnansiSkill. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a web that works for everyone.-->
 
-### I'm a Full-Stack Developer.
+## 👨‍💻 I'm a Full-Stack Developer.
 
 <!-- - 🔎 I'm actively looking for new opportunity. -->
-- 👨‍💻 I'm working with some awesome people at **[Kiwibot](https://www.kiwibot.com/)**
+- 💻 I'm working with some awesome people at **[Kiwibot](https://www.kiwibot.com/)**
 - ⚙️ I use daily: `.py`,`.rb`, `.js`, `.erb`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`
 - 🌍 I support and volunteer with: **freecodecamp, Mintbean, Odin project**
 - 💬 Ping me about: **Web development**, **fullstack development**, **diversity & inclusion**, **mentorship**
 - 😍 Interests: Machine Learning, cryptocurrencies enthusiast, reading books 📖, movies and web series 🎥
 
-### Find me around the web 🌎:
+## 🌎 Find me around the web
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/diptokarmakar/">LinkedIn</a>
 - 🌐 Updating my personal website with examples of my work on <a href="https://diptokarmakar.me/">diptokarmakar.me</a>
 - 🐦 Tweeting about memes and sharing tech tweets on <a href="https://twitter.com/Diptokmk47">Twitter</a>
 
-### Languages and Tools:
+## 🔧 Technologies & Tools
 
 
-<img align="left" style="margin: 0.5rem" alt="Python language" width="26px" src="./assets/python.png" />
-<img align="left" style="margin: 0.5rem" alt="Ruby" width="26px" src="./assets/ruby.png" />
-<img align="left" style="margin: 0.5rem" alt="Django" width="40px" src="./assets/django.png" />
-<img align="left" style="margin: 0.5rem" alt="Rails" width="50px" src="./assets/rails.png" />
-
-<img align="left" style="margin: 0.5rem" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" style="margin: 0.5rem" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" style="margin: 0.5rem" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" style="margin: 0.5rem" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" style="margin: 0.5rem" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" style="margin: 0.5rem" alt="Redux" width="26px" src="./assets/redux.png" />
-<img align="left" style="margin: 0.5rem" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" style="margin: 0.5rem" alt="PostgreSQL" width="26px" src="./assets/pg.png" />
-<img align="left" style="margin: 0.5rem" alt="MongoDB" width="70px" src="./assets/mongo_db.png" />
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 
 <br />
 <br />

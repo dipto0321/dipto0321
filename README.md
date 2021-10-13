@@ -24,6 +24,9 @@
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Html5-informational?style=flat&logo=html5&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=2bbc8a)
@@ -56,7 +59,6 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google&color=2bbc8a)
-
 
 ## 📒 All stats
 

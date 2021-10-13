@@ -1,6 +1,6 @@
 ![banner](assets/banner.png)
 ## Hi, I'm Dipto 👋
----
+
 
 <!-- I'm Dipto, a software engineer with experience in Python, Django,Ruby, Rails, JavaScript, React and more. I've been working professionally for about 3 years but got my start back in days of Unipolar and AnansiSkill. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a web that works for everyone.-->
 

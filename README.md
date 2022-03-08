@@ -18,7 +18,7 @@
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/diptokarmakar/">LinkedIn</a>
 - 🌐 Updating my personal website with examples of my work on <a href="https://diptokarmakar.me/">diptokarmakar.me</a>
-- 🐦 Tweeting about memes and sharing tech tweets on <a href="https://twitter.com/Diptokmk47">Twitter</a>
+- 🐦 Tweeting about memes and sharing tech tweets on <a href="https://twitter.com/imdiptokmk">Twitter</a>
 
 ## 🔧 Technologies & Tools
 

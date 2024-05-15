@@ -16,7 +16,7 @@
 
 ## 🌎 Find me around the web
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/diptokarmakar/">LinkedIn</a>
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/dipto-karmakar/">LinkedIn</a>
 - 🌐 Updating my personal website with examples of my work on <a href="https://diptokarmakar.me/">diptokarmakar.me</a>
 - 🐦 Tweeting about memes and sharing tech tweets on <a href="https://twitter.com/imdiptokmk">Twitter</a>
 

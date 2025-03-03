@@ -8,7 +8,7 @@
 
 <!-- - 🔎 I'm actively looking for new opportunity. -->
 
-- 💻 I'm working with some awesome people at **[ProptechCore](https://proptechcore.com/)**
+- 💻 I'm working with some awesome people at **[Proxify](https://proxify.io/)**
 - ⚙️ I use daily: `.py`,`.rb`, `.js`, `.erb`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`
 - 🌍 I support and volunteer with: **freecodecamp, Mintbean, Odin project**
 - 💬 Ping me about: **Web development**, **fullstack development**, **diversity & inclusion**, **mentorship**
